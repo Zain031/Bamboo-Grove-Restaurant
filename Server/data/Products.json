@@ -1,0 +1,299 @@
+[{
+        "title": "Beef Burger",
+        "price": "100000",
+        "imgUrl": "http://localhost:3000/asset/Burger/beefburger.png",
+        "categoryId": 1
+    },
+    {
+        "title": "Beef Burger jumbo",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Burger/beefburger2.png",
+        "categoryId": 1
+    },
+    {
+        "title": "Chicken burger",
+        "price": "125000",
+        "imgUrl": "http://localhost:3000/asset/Burger/chickenburger.png",
+        "categoryId": 1
+    }, {
+        "title": "sandwich",
+        "price": "250000",
+        "imgUrl": "http://localhost:3000/asset/Burger/sandwich.png",
+        "categoryId": 1
+    }, {
+        "title": "fries",
+        "price": "50000",
+        "imgUrl": "http://localhost:3000/asset/Burger/fries.png",
+        "categoryId": 1
+    }, {
+        "title": "Beef Burger jumbo package",
+        "price": "350000",
+        "imgUrl": "http://localhost:3000/asset/Burger/side-background.png",
+        "categoryId": 1
+    }, {
+        "title": "Aria Drake chake",
+        "price": "250000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c1.png",
+        "categoryId": 2
+
+    }, {
+        "title": "Jasper Stone chake",
+        "price": "250000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c2.png",
+        "categoryId": 2
+    }, {
+        "title": "Litle orion choho",
+        "price": "250000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c6.png",
+        "categoryId": 2
+    },
+    {
+        "title": "Luna Nightingale",
+        "price": "100000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c3.png",
+        "categoryId": 2
+    },
+    {
+        "title": "Jasper Stone chake",
+        "price": "250000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c4.png",
+        "categoryId": 2
+    }, {
+        "title": "Orion choho",
+        "price": "400000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c5.png",
+        "categoryId": 2
+    }, {
+        "title": "Litle orion choho",
+        "price": "250000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c6.png",
+        "categoryId": 2
+    }, {
+        "title": "Willow Phoenix",
+        "price": "450000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c7.png",
+        "categoryId": 2
+    }, {
+        "title": "Stone chake",
+        "price": "250000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c8.png",
+        "categoryId": 2
+    }, {
+        "title": "Nova Storm",
+        "price": "180000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c10.png",
+        "categoryId": 2
+    }, {
+        "title": "Nova Storm pink",
+        "price": "200000",
+        "imgUrl": "http://localhost:3000/asset/Cake/c11.png",
+        "categoryId": 2
+    }, {
+        "title": "Flat White",
+        "price": "50000",
+        "imgUrl": "http://localhost:3000/asset/Coffe/m1.png",
+        "categoryId": 3
+    }, {
+        "title": "Cappuccino",
+        "price": "60000",
+        "imgUrl": "http://localhost:3000/asset/Coffe/m2.png",
+        "categoryId": 3
+    }, {
+        "title": "Mocha",
+        "price": "50000",
+        "imgUrl": "http://localhost:3000/asset/Coffe/m3.png",
+        "categoryId": 3
+    },
+    {
+        "title": "Irish Coffee",
+        "price": "70000",
+        "imgUrl": "http://localhost:3000/asset/Coffe/m4.png",
+        "categoryId": 3
+    },
+    {
+        "title": "The Grind House",
+        "price": "50000",
+        "imgUrl": "http://localhost:3000/asset/Coffe/m5.png",
+        "categoryId": 3
+    }, {
+        "title": "Espresso Emporium",
+        "price": "50000",
+        "imgUrl": "http://localhost:3000/asset/Coffe/m6.png",
+        "categoryId": 3
+    }, {
+        "title": "Bean Boulevard",
+        "price": "50000",
+        "imgUrl": "http://localhost:3000/asset/Coffe/m7.png",
+        "categoryId": 3
+    },
+    {
+        "title": "Steaming Serenity",
+        "price": "50000",
+        "imgUrl": "http://localhost:3000/asset/Coffe/m8.png",
+        "categoryId": 3
+    },
+    {
+        "title": "Steaming Serenity",
+        "price": "50000",
+        "imgUrl": "http://localhost:3000/asset/Food/background.png",
+        "categoryId": 4
+    },
+
+    {
+        "title": "Chicken chow",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Food/chicken chow.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Chicken leg",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Food/chicken leg.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Chicken tomato",
+        "price": "180000",
+        "imgUrl": "http://localhost:3000/asset/Food/chicken.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Cruspy fried",
+        "price": "140000",
+        "imgUrl": "http://localhost:3000/asset/Food/chicken.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Black fried",
+        "price": "170000",
+        "imgUrl": "http://localhost:3000/asset/Food/fasr food.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Garlic Fried",
+        "price": "180000",
+        "imgUrl": "http://localhost:3000/asset/Food/chicken.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Grilled chicken",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Food/grilled chicken.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Grilled beef steak",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Food/Grilled_beef_steak.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Grilled pork ribs",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Food/Grilled_pork_ribs.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Lyulya kebab",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Food/Lyulya_kebab.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Fireside Grill",
+        "price": "250000",
+        "imgUrl": "http://localhost:3000/asset/Food/m1.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Veggie Delight",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Food/m2.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Pasta Palace",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Food/m3.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Ocean's Catch",
+        "price": "160000",
+        "imgUrl": "http://localhost:3000/asset/Food/m4.png",
+        "categoryId": 4
+    },
+    {
+        "title": "BBQ Junction",
+        "price": "180000",
+        "imgUrl": "http://localhost:3000/asset/Food/m5.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Mangalorean Chicken",
+        "price": "160000",
+        "imgUrl": "http://localhost:3000/asset/Food/Mangalorean_Chicken.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Tasty Tacos chicken",
+        "price": "150000",
+        "imgUrl": "http://localhost:3000/asset/Food/menu-img.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Noodles Delight",
+        "price": "120000",
+        "imgUrl": "http://localhost:3000/asset/Food/noodles.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Noodles pasta",
+        "price": "120000",
+        "imgUrl": "http://localhost:3000/asset/Food/pasta.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Pineapple Fried Rice",
+        "price": "140000",
+        "imgUrl": "http://localhost:3000/asset/Food/Pineapple_Fried_Rice.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Pizzeria Pronto",
+        "price": "120000",
+        "imgUrl": "http://localhost:3000/asset/Food/pizza.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Rice Chicken",
+        "price": "130000",
+        "imgUrl": "http://localhost:3000/asset/Food/rice.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Salad",
+        "price": "130000",
+        "imgUrl": "http://localhost:3000/asset/Food/salad.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Shusi japanese",
+        "price": "130000",
+        "imgUrl": "http://localhost:3000/asset/Food/sushi__japanese.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Spice Garden",
+        "price": "170000",
+        "imgUrl": "http://localhost:3000/asset/Food/steaks vagitable.png",
+        "categoryId": 4
+    },
+    {
+        "title": "White fish",
+        "price": "140000",
+        "imgUrl": "http://localhost:3000/asset/Food/white fish.png",
+        "categoryId": 4
+    }
+
+]
